@@ -10,7 +10,7 @@
 | FireAndFlame | [LedCube](https://github.com/progbase/LedCube)  |
 | Hz | [Машинка](https://github.com/progbase/hz)  |
 | O1 | [Solar Plant](https://github.com/progbase/Solar-Plant)  |
-| Royal Code Legion | [BFG-AUTO](https://github.com/progbase/BFG-AUTO)  |
+| Royal Code Legion | [BFG-AUTO (semi-automatic turret)](https://github.com/progbase/BFG-AUTO)  |
 | ShawarmaSquad | [hovercraft](https://github.com/progbase/hovercraft)  |
 | Simba Inc™ | [Morse Sound Transmitter-Receiver](https://github.com/progbase/MainSimbaka)  |
 | SkateX | [Electric Longboard](https://github.com/progbase/Electric-longboard)  |
